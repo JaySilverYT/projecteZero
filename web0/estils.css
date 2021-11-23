@@ -1,6 +1,6 @@
 body{
-    background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
-	font-family: Verdana;
+    background: -webkit-linear-gradient(left, #b60280, #b60280);
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .contact-form{
     background: #fff;
@@ -17,8 +17,7 @@ body{
 .contact-image img{
     border-radius: 6rem;
     width: 11%;
-    margin-top: -3%;
-    transform: rotate(29deg);
+    margin-top: 5%;
 }
 .contact-form form{
     padding: 14%;
@@ -37,7 +36,7 @@ body{
     border: none;
     border-radius: 1rem;
     padding: 1.5%;
-    background: #dc3545;
+    background: #b60280;
     font-weight: 600;
     color: #fff;
     cursor: pointer;
