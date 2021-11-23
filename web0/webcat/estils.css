@@ -1,6 +1,6 @@
 body{
-    background: #0DFF67;
-	font-family: Verdana;
+    background: -webkit-linear-gradient(left, #b60280, #b60280);
+	font-family: 'Trebuchet MS';
 }
 .contact-form{
     background: #fff;
@@ -15,10 +15,9 @@ body{
     text-align: center;
 }
 .contact-image img{
-    border-radius: 6rem;
+    border-radius: 20rem;
     width: 11%;
     margin-top: -3%;
-    transform: rotate(29deg);
 }
 .contact-form form{
     padding: 14%;
@@ -30,16 +29,16 @@ body{
     margin-bottom: 8%;
     margin-top: -10%;
     text-align: center;
-    color: #44FF01;
+    color: #0062cc;
 }
 .contact-form .btnContact {
     width: 50%;
     border: none;
     border-radius: 1rem;
     padding: 1.5%;
-    background: #96E80C;
+    background: #b60280;
     font-weight: 600;
-    color: #FDFF05;
+    color: #fff;
     cursor: pointer;
 }
 .btnContactSubmit
@@ -47,8 +46,8 @@ body{
     width: 50%;
     border-radius: 1rem;
     padding: 1.5%;
-    color: #FDFF05;
-    background-color: #44FF01;
+    color: #fff;
+    background-color: #0062cc;
     border: none;
     cursor: pointer;
 }
